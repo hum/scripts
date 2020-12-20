@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/hum/scripts-go/portScanner"
+	"github.com/hum/scripts/portScanner"
 )
 
 func main() {
